@@ -9,6 +9,6 @@ Eu sou a Marina Teixeira, atualmente estou estudando na ETEC Joaquim Ferreira do
 
 <div align="center">
   <a href="https://github.com/mahteixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahteixeira&show_icons=true&bg_color=00FFFFFFtitle_color=f7a394&text_color=f7a394&icon_color=6d80bf&hide_border=true&count_private=true&include_all_commits=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahteixeira&layout=compact&bg_color=00FFFFFFtitle_color=f7a394&text_color=ff7a394&hide_border=true&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahteixeira&show_icons=true&bg_color=0d1117&title_color=f7a394&text_color=f7a394&icon_color=6d80bf&hide_border=true&count_private=true&include_all_commits=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahteixeira&layout=compact&bg_color=0d1117&title_color=f7a394&text_color=ff7a394&hide_border=true&langs_count=10"/>
 </div>
