@@ -17,6 +17,6 @@ Eu sou a Marina Teixeira, atualmente estou estudando na ETEC Joaquim Ferreira do
   
 ### No momento ando escutando:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=226c4fn5cbzigc2lubgmxun6q&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=226c4fn5cbzigc2lubgmxun6q&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=226c4fn5cbzigc2lubgmxun6q&cover_image=true&theme=novatorem&show_offline=false&bar_color=f7a394&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=226c4fn5cbzigc2lubgmxun6q&redirect=true)
 
   
