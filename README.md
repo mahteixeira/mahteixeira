@@ -12,3 +12,11 @@ Eu sou a Marina Teixeira, atualmente estou estudando na ETEC Joaquim Ferreira do
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahteixeira&show_icons=true&bg_color=0d1117&title_color=f7a394&text_color=f7a394&icon_color=6d80bf&hide_border=true&count_private=true&include_all_commits=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahteixeira&layout=compact&bg_color=0d1117&title_color=f7a394&text_color=ffffff&hide_border=true&langs_count=10"/>
 </div>
+
+#
+  
+### No momento ando escutando:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=226c4fn5cbzigc2lubgmxun6q&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=226c4fn5cbzigc2lubgmxun6q&redirect=true)
+
+  
